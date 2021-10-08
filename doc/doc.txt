@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "productName": "Ghirardelli",
+        "image":"",
+        "price":"5.00"
+    },
+    {
+        "id":1,
+        "productName": "ON Fruit & Nut",
+        "image":"",
+        "price":"2.00"
+    },
+    {
+        "id":2,
+        "productName": "Snickers",
+        "image":"",
+        "price":"0.99"
+    },
+    {
+        "id":3,
+        "productName": "KitKat",
+        "image":"",
+        "price":"1.25"
+    }
+]
